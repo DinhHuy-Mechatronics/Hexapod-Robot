@@ -1,4 +1,4 @@
-# 🔗 **[Xem thêm tại trang của tôi](https://dinhhuy-mechatronics.github.io/HUY.MEC/#projects)**
+# 🔗 **[See more on my website](https://dinhhuy-mechatronics.github.io/HUY.MEC/#projects)**
 
 # Dự án Robot Hexapod 18 Bậc Tự Do (18-DOF)
 
