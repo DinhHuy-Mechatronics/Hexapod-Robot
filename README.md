@@ -17,3 +17,7 @@ Kho lưu trữ này chứa các tài liệu thiết kế, tính toán cơ khí v
 2. **Đi dây & Tích hợp điện:** Quản lý nguồn và tín hiệu cho hệ thống 18 servo công suất cao cùng vi điều khiển.
 3. **Động học & Mô phỏng:** Sử dụng MATLAB để tính toán quỹ đạo và mô phỏng.
 4. **Điều khiển chuyển động:** Phát triển thuật toán tạo dáng đi (gait) và phối hợp chuyển động các khớp đồng bộ.
+
+<p align="center">
+  <img src="hexapod-robot-main/%E1%BA%A2nh%20minh%20h%E1%BB%8Da%203.jpg" alt="Hexapod Robot" width="700"/>
+</p>
