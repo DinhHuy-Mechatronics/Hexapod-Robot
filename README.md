@@ -21,3 +21,5 @@ Kho lưu trữ này chứa các tài liệu thiết kế, tính toán cơ khí v
 <p align="center">
   <img src="hexapod-robot-main/%E1%BA%A2nh%20minh%20h%E1%BB%8Da%203.jpg" alt="Hexapod Robot" width="700"/>
 </p>
+
+🔗 **[Xem chi tiết toàn bộ dự án tại đây](https://dinhhuy-mechatronics.github.io/HUY.MEC/#projects)**
